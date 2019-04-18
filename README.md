@@ -13,8 +13,8 @@ git clone https://github.com/Maccauhuru/RPS-Game.git
 
 ## Usage
 
-After you clone simply open the index.html file in ant web browser
+After you clone simply open the index.html file in any web browser
 
 ## Contact Author
 
-[https://github.com/yourname/github-link](https://github.com/Maccauhuru)
+[https://github.com/maccauhuru/](https://github.com/Maccauhuru)
